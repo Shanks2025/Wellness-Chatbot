@@ -1,6 +1,6 @@
 # Wellness-Chatbot
 This is a streamlit based chatbot which is built on a knowledge base allowing flexiblity to query using Hindi and English. Also there is availabilty for user and admin access 
-# 🩺 Multilingual Health Chatbot (Milestone 3)
+# 🩺 Multilingual Health Chatbot 
 
 An intelligent **multilingual health assistant** built with **Streamlit**, providing quick general health guidance in **English** and **Hindi**.  
 It features user authentication, profile-based responses, translation using MarianMT models, and an **Admin Dashboard** for analytics, feedback visualization, and knowledge base management.
